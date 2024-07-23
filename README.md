@@ -1,7 +1,7 @@
 <h1 align="center">Jonnel Mendoza</h1>
 <h3 align="center">Data Analyst</h3>
 <p align="center">
- <img alt="Coding" width="300" height="auto" src="assets/coding.gif"/>
+ <img alt="Coding" width="300" height="auto" src="https://github.com/user-attachments/assets/3c8ca46d-14b9-4b3b-b555-496703b983d3"/>
 </p>
 <h3 align="center">My interests</h3>
 <p align="center">
@@ -16,3 +16,4 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheMendoza&theme=transparent&utcOffset=5.30" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheMendoza&theme=transparent" height="180em" />
 </div>
+
