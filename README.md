@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Data Visualization;Artificial Intelligence;Deep Learning;Data Science&font=Fira%20Code&center=true&width=380&height=50&duration=1000&pause=1000&color=#6A5ACD" alt="Interests">
 <p align="center">Currently working on - Private Projects</p>
-<p align="center">Currently learning - Python </p>
+<p align="center">Continuous learning - Excel, Power BI, Tableau, SQL, and Python </p>
 </p>
 <div align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheMendoza&theme=transparent&utcOffset=8" height="180em" />
